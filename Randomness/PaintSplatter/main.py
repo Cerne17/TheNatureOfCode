@@ -12,7 +12,7 @@ import random
 WIDTH, HEIGHT       = 1200, 800
 SIZE                = (WIDTH, HEIGHT)
 BACKGROUND_COLOR    = DARK_GRAY
-SCREEN_CAPTION      = "Example Name"
+SCREEN_CAPTION      = "Paint Splatter"
 TICK                = 100
 
 """ SCREEN'S CONSTANTS """
